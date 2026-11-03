@@ -28,7 +28,9 @@ class ContactForm(BasePage):
             "textarea, input[placeholder*='Message'], [data-testid='ContactDescription']"
         ).first
         self.submit_button = page.get_by_role("button", name="Submit")
-        self.success_banner = page.locator("h3:has-text('Thanks for getting in touch'), .alert-success").first
+        self.success_banner = page.locator(
+            "h3:has-text('Thanks for getting in touch'), .alert-success"
+        ).first
         self.error_messages = page.locator(".alert-danger, p.alert, .alert")
 
     def fill_and_submit(
