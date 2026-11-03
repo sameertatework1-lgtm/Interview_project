@@ -2,7 +2,7 @@
 
 Enterprise-grade UI, API, and End-to-End test automation framework built for the **Restful Booker Platform** using **Python**, **Playwright (sync API)**, and **pytest-bdd (Gherkin)**.
 
-[![Playwright Tests](https://github.com/aniruddha/rbp-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/aniruddha/rbp-automation/actions/workflows/tests.yml)
+[![Playwright Tests](https://github.com/sameertatework1-lgtm/Interview_project/actions/workflows/tests.yml/badge.svg)](https://github.com/sameertatework1-lgtm/Interview_project/actions/workflows/tests.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/playwright-v1.48-green.svg)](https://playwright.dev/)
 [![Allure Report](https://img.shields.io/badge/report-allure-orange.svg)](https://github.com/allure-framework/allure-python)
