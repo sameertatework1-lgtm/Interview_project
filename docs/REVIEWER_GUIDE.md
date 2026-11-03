@@ -66,3 +66,4 @@ To quickly assess the design quality, SDET maturity, and maintainability of this
 - **Why Playwright Sync?** Synchronous API avoids `async/await` fixture contention in pytest-bdd while natively handling browser automation and high-speed API requests in a unified context.
 - **Why Zero Sleeps?** The entire codebase has 0 `time.sleep()` calls. We rely on Playwright's auto-waiting locators and web-first assertions (`expect(locator).to_be_visible()`).
 - **Defect Transparency:** Known live server defects (such as `/actuator/health` returning 500) are explicitly marked with `@pytest.mark.xfail(reason=...)` rather than hidden.
+
