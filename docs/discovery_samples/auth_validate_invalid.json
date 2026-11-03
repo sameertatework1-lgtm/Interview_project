@@ -1,0 +1,11 @@
+{
+  "method": "POST",
+  "url": "https://automationintesting.online/api/auth/validate",
+  "status": 403,
+  "req_body": {
+    "token": "invalid_123"
+  },
+  "resp_body": {
+    "error": "Invalid token"
+  }
+}

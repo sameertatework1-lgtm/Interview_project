@@ -1,0 +1,102 @@
+{
+  "method": "GET",
+  "url": "https://automationintesting.online/api/room/",
+  "status": 200,
+  "req_body": null,
+  "resp_body": {
+    "rooms": [
+      {
+        "accessible": true,
+        "description": "Aenean porttitor mauris sit amet lacinia molestie. In posuere accumsan aliquet. Maecenas sit amet nisl massa. Interdum et malesuada fames ac ante.",
+        "features": [
+          "TV",
+          "WiFi",
+          "Safe"
+        ],
+        "image": "/images/room1.jpg",
+        "roomName": "101",
+        "roomPrice": 100,
+        "roomid": 1,
+        "type": "Single"
+      },
+      {
+        "accessible": true,
+        "description": "Vestibulum sollicitudin, lectus ac mollis consequat, lorem orci ultrices tellus, eleifend euismod tortor dui egestas erat. Phasellus et ipsum nisl. ",
+        "features": [
+          "TV",
+          "Radio",
+          "Safe"
+        ],
+        "image": "/images/room2.jpg",
+        "roomName": "102",
+        "roomPrice": 150,
+        "roomid": 2,
+        "type": "Double"
+      },
+      {
+        "accessible": true,
+        "description": "Etiam metus metus, fringilla ac sagittis id, consequat vel neque. Nunc commodo quis nisl nec posuere. Etiam at accumsan ex. ",
+        "features": [
+          "Radio",
+          "WiFi",
+          "Safe"
+        ],
+        "image": "/images/room3.jpg",
+        "roomName": "103",
+        "roomPrice": 225,
+        "roomid": 3,
+        "type": "Suite"
+      },
+      {
+        "accessible": true,
+        "description": "A nice cozy room.",
+        "features": [
+          "TV"
+        ],
+        "image": "https://www.example.com/image.jpg",
+        "roomName": "Room 31283c39",
+        "roomPrice": 100,
+        "roomid": 4,
+        "type": "Single"
+      },
+      {
+        "accessible": true,
+        "description": "A luxurious suite room.",
+        "features": [
+          "TV",
+          "WiFi",
+          "Minibar"
+        ],
+        "image": "https://www.example.com/suite.jpg",
+        "roomName": "Room 383f745e",
+        "roomPrice": 500,
+        "roomid": 5,
+        "type": "Suite"
+      },
+      {
+        "accessible": true,
+        "description": "A nice cozy room.",
+        "features": [
+          "TV"
+        ],
+        "image": "https://www.example.com/image.jpg",
+        "roomName": "Room 7b340316",
+        "roomPrice": 100,
+        "roomid": 6,
+        "type": "Single"
+      },
+      {
+        "accessible": true,
+        "description": "A nice cozy room.",
+        "features": [
+          "TV"
+        ],
+        "image": "https://www.example.com/image.jpg",
+        "roomName": "Room c2f1f0ec",
+        "roomPrice": 100,
+        "roomid": 7,
+        "type": "Single"
+      }
+    ]
+  }
+}

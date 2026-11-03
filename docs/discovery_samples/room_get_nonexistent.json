@@ -1,0 +1,7 @@
+{
+  "method": "GET",
+  "url": "https://automationintesting.online/api/room/999999",
+  "status": 500,
+  "req_body": null,
+  "resp_body": "Internal Server Error"
+}

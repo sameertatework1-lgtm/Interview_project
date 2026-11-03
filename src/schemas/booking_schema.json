@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Booking",
+  "type": "object",
+  "required": ["bookingid", "roomid", "firstname", "lastname", "depositpaid", "bookingdates"],
+  "properties": {
+    "bookingid":    { "type": "integer" },
+    "roomid":       { "type": "integer" },
+    "firstname":    { "type": "string" },
+    "lastname":     { "type": "string" },
+    "depositpaid":  { "type": "boolean" },
+    "email":        { "type": ["string", "null"] },
+    "phone":        { "type": ["string", "null"] },
+    "bookingdates": {
+      "type": "object",
+      "required": ["checkin", "checkout"],
+      "properties": {
+        "checkin":  { "type": "string" },
+        "checkout": { "type": "string" }
+      }
+    }
+  },
+  "additionalProperties": true
+}
+

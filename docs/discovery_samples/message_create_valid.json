@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://automationintesting.online/api/message/",
+  "status": 200,
+  "req_body": {
+    "name": "Auto Contact",
+    "email": "auto_contact@example.com",
+    "phone": "012345678901",
+    "subject": "Discovery Subject",
+    "description": "This is a discovery test contact message longer than 20 chars."
+  },
+  "resp_body": {
+    "success": true
+  }
+}

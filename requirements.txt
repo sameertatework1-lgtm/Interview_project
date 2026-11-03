@@ -1,0 +1,26 @@
+# Restful Booker Platform — Test Framework Dependencies
+# Python 3.11+  |  Pin versions for reproducibility
+
+# Core test runner
+pytest==8.3.5
+pytest-playwright==0.5.2
+pytest-bdd==7.3.0
+pytest-xdist==3.6.1
+pytest-rerunfailures==14.0
+
+# Playwright browser automation
+playwright==1.48.0
+
+# API / schema
+jsonschema==4.23.0
+
+# Config / data
+python-dotenv==1.0.1
+faker==30.8.2
+
+# Reporting
+allure-pytest==2.13.5
+
+# Linting / formatting
+ruff==0.7.2
+

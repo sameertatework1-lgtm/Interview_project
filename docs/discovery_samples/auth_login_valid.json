@@ -1,0 +1,12 @@
+{
+  "method": "POST",
+  "url": "https://automationintesting.online/api/auth/login",
+  "status": 200,
+  "req_body": {
+    "username": "admin",
+    "password": "password"
+  },
+  "resp_body": {
+    "token": "PWhmKbuGtiMM5m0v"
+  }
+}

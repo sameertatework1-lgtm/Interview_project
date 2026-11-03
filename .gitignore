@@ -1,0 +1,34 @@
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# Agent cache & internal tools
+.agent/
+.ruff_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Test outputs
+reports/
+.pytest_cache/
+test-results/
+playwright-traces/
+screenshots/
+videos/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+

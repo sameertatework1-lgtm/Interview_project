@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "path": "/auth/login",
+  "url": "https://automationintesting.online/api/auth/login",
+  "status": 403,
+  "request_body": {
+    "username": "admin"
+  },
+  "response_body": "error code: 1010\n",
+  "response_headers": {
+    "Date": "Tue, 03 Nov 2026 07:50:26 GMT",
+    "Content-Type": "text/plain; charset=UTF-8",
+    "Content-Length": "17",
+    "Connection": "close",
+    "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+    "Referrer-Policy": "same-origin",
+    "Server-Timing": "cfEdge;dur=23,cfOrigin;dur=0",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=vKRy4pBHUtuSH8mPHQpS9injvtnudoOKx1QNP3UxWHW43CxlQSav7WgllHuQPN%2FkisJJByYnrgxlPUqMzW0518iNg8wSlX6Rhzv%2BsPyrh5cu6YXH5%2BZC5XMEZZfrMNG4j1YYX4XyyxBmGmrbNuvjZFsvLhc7EI6pfw%3D%3D\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server": "cloudflare",
+    "CF-RAY": "a549c9bcebb713d3-MRS",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

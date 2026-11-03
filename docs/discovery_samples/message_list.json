@@ -1,0 +1,664 @@
+{
+  "method": "GET",
+  "url": "https://automationintesting.online/api/message/",
+  "status": 200,
+  "req_body": null,
+  "resp_body": {
+    "messages": [
+      {
+        "id": 1,
+        "name": "James Dean",
+        "read": false,
+        "subject": "Booking enquiry"
+      },
+      {
+        "id": 2,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 3,
+        "name": "RPA Tester",
+        "read": false,
+        "subject": "OpenRPA automation test"
+      },
+      {
+        "id": 4,
+        "name": "O'Brien McDonald's",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 5,
+        "name": "O'Brien McDonald's",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 6,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 7,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 8,
+        "name": "Testkdgfcktv Guestlefidqgt",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 9,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 10,
+        "name": "Jos\u00e9 Fran\u00e7ois",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 11,
+        "name": "Testttcfpzay Guestoyqkqnfy",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 12,
+        "name": "Jos\u00e9 Fran\u00e7ois",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 13,
+        "name": "A!x O'Neil-Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 14,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 15,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 16,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 17,
+        "name": "'; DROP TABLE u-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 18,
+        "name": "admin' OR '1'='1 Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 19,
+        "name": "Robert');-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 20,
+        "name": "' OR 1=1-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 21,
+        "name": "../etc/passwd Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 22,
+        "name": "John Doe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 23,
+        "name": "<script>alert() Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 24,
+        "name": "*)(uid=*))(|(uid* Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 25,
+        "name": "<?xml><foo>&xxe; Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 26,
+        "name": "{'$ne': null} Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 27,
+        "name": "' OR 'x'='x Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 28,
+        "name": "admin\u0000 Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 29,
+        "name": "<h1>hack</h1> Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 30,
+        "name": "onclick=alert(1) Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 31,
+        "name": "admin'-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 32,
+        "name": "John Doe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 33,
+        "name": "Testhjbmguxs Guestvbvpwobc",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 34,
+        "name": "Ann Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 35,
+        "name": "Ann Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 36,
+        "name": "AAAAAAAAAAAAAAAAAA Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 37,
+        "name": "AAAAAAAAAAAAAAAAAA Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 38,
+        "name": "Anna SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 39,
+        "name": "Anna SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 40,
+        "name": "Anna Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 41,
+        "name": "Testrhrmysdu Guestljvoarks",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 42,
+        "name": "Anna Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 43,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 44,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 45,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 46,
+        "name": "Testnyhrasvx Guestkybjrgbt",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 47,
+        "name": "A!x O'Neil-Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 48,
+        "name": "John Doe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 49,
+        "name": "Testywlddtbg Guestajfclcoz",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 50,
+        "name": "Lookup 30e4a21e",
+        "read": false,
+        "subject": "Lookup Subject 30e4a21e"
+      },
+      {
+        "id": 51,
+        "name": "Anna66702a78 Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 52,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 53,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 54,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 55,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 56,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 57,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 58,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 59,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 60,
+        "name": "O'Brien McDonald's",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 61,
+        "name": "O'Brien McDonald's",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 62,
+        "name": "O'Brien McDonald's",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 63,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 64,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 65,
+        "name": "Anne-Marie Smith-Jones",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 66,
+        "name": "Jos\u00e9 Fran\u00e7ois",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 67,
+        "name": "Jos\u00e9 Fran\u00e7ois",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 68,
+        "name": "Jos\u00e9 Fran\u00e7ois",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 69,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 70,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 71,
+        "name": "M\u00fcller Schr\u00f6der",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 72,
+        "name": "'; DROP TABLE u-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 73,
+        "name": "admin' OR '1'='1 Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 74,
+        "name": "Robert');-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 75,
+        "name": "' OR 1=1-- Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 76,
+        "name": "../etc/passwd Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 77,
+        "name": "<script>alert() Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 78,
+        "name": "; rm -rf / Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 79,
+        "name": "*)(uid=*))(|(uid* Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 80,
+        "name": "<?xml><foo>&xxe; Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 81,
+        "name": "{'$ne': null} Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 82,
+        "name": "' OR 'x'='x Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 83,
+        "name": "admin\u0000 Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 84,
+        "name": "<h1>hack</h1> Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 85,
+        "name": "onclick=alert(1) Safe",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 86,
+        "name": "Ann Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 87,
+        "name": "Ann Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 88,
+        "name": "Ann Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 89,
+        "name": "AAAAAAAAAAAAAAAAAA Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 90,
+        "name": "AAAAAAAAAAAAAAAAAA Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 91,
+        "name": "Testxehlkcsp Guestamesmbod",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 92,
+        "name": "Testbdedfcmp Guestnuszihzw",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 93,
+        "name": "Testklpfysbq Guestsgirbnng",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 94,
+        "name": "Anna Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 95,
+        "name": "Anna Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 96,
+        "name": "Anna Smith",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 97,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 98,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 99,
+        "name": "Default User",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 100,
+        "name": "Testzsrfhgib Guestzypsqdeb",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 101,
+        "name": "OtherGuest IsolationGuest",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 102,
+        "name": "Jenish Daniel",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 103,
+        "name": "Testsawbbboe Guestqiyrqlty",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 104,
+        "name": "Testpvscyqvk Guesthrmwjgkm",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 105,
+        "name": "Testdaumqkae Guestrvcomcof",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 106,
+        "name": "Testkbasrdce Guesttlmthyho",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 107,
+        "name": "Testymuhihlp Guestgmpoklvc",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 108,
+        "name": "OtherGuest IsolationGuest",
+        "read": false,
+        "subject": "You have a new booking!"
+      },
+      {
+        "id": 109,
+        "name": "Auto Contact",
+        "read": false,
+        "subject": "Discovery Subject"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+[project]
+name = "rbp-automation"
+version = "0.1.0"
+description = "Restful Booker Platform UI + API test framework"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/conftest.py" = ["F403", "F401"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+

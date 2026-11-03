@@ -1,0 +1,12 @@
+{
+  "method": "POST",
+  "url": "https://automationintesting.online/api/auth/login",
+  "status": 401,
+  "req_body": {
+    "username": "admin",
+    "password": "wrong"
+  },
+  "resp_body": {
+    "error": "Invalid credentials"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "method": "POST",
+  "url": "https://automationintesting.online/api/room/",
+  "status": 401,
+  "req_body": {
+    "roomName": "AUTO_1793692380",
+    "type": "Double",
+    "accessible": true,
+    "image": "https://www.mwtestconsultancy.co.uk/img/room2.jpg",
+    "description": "Discovery test room",
+    "features": [
+      "WiFi",
+      "TV"
+    ],
+    "roomPrice": 120
+  },
+  "resp_body": {
+    "errors": [
+      "Authentication required"
+    ]
+  }
+}

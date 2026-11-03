@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Message",
+  "type": "object",
+  "required": ["messageid", "name", "subject", "read"],
+  "properties": {
+    "messageid": { "type": "integer" },
+    "name":      { "type": "string" },
+    "email":     { "type": ["string", "null"] },
+    "phone":     { "type": ["string", "null"] },
+    "subject":   { "type": "string" },
+    "description":{ "type": ["string", "null"] },
+    "read":      { "type": "boolean" }
+  },
+  "additionalProperties": true
+}
+

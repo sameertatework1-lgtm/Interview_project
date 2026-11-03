@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://automationintesting.online/api/report/",
+  "status": 401,
+  "req_body": null,
+  "resp_body": {
+    "error": "Authentication required"
+  }
+}

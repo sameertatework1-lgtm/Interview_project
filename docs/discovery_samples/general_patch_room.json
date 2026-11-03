@@ -1,0 +1,7 @@
+{
+  "method": "PATCH",
+  "url": "https://automationintesting.online/api/room/",
+  "status": 405,
+  "req_body": {},
+  "resp_body": ""
+}
